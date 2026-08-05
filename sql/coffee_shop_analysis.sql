@@ -1,9 +1,3 @@
--- ============================================================
--- Coffee Shop Sales Analysis
--- Revised version: fixed data types, division-by-zero guards,
--- consistent formatting, added rating analysis
--- ============================================================
-
 -- Create Database
 CREATE DATABASE IF NOT EXISTS CoffeeShopDB;
 
