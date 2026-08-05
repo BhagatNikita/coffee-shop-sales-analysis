@@ -46,7 +46,7 @@ Quick snapshot: total revenue, total orders, customers, average rating, monthly 
 ### Page 2 — City Performance
 Compares each city's revenue against how much it costs (rent) to run a shop there.
 
-![City Performance](screenshots/city_performance_page.png)
+![City Performance](screenshots/City Performance.png)
 
 ### Page 3 — Products & Ratings
 Shows which products are ordered the most and how customers rate them.
